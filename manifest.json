@@ -1,0 +1,17 @@
+{
+  "git_revision": "f171ca792cacbb11f7f75b17f8ad516ce157519a",
+  "artifacts": {
+    "installer": {
+      "filename": "ncPong-2026.05.r1-f171ca7-Win64-VS2022.exe",
+      "size": 3077603,
+      "timestamp": "2026-05-13T00:16:21Z",
+      "sha256": "cdb2ced8a1e9d5c69291481897fc23bcaefe442c1a9561cda434f5395b2eb995"
+    },
+    "portable": {
+      "filename": "ncPong-2026.05.r1-f171ca7-Win64-VS2022.zip",
+      "size": 3688401,
+      "timestamp": "2026-05-13T00:16:22Z",
+      "sha256": "fcc80c6c9ed0d50f2ad6fb4af7242fdb7b5e6dd12674033edee6cc83d3055f9c"
+    }
+  }
+}
